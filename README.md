@@ -10,6 +10,13 @@ In this source, you use ECG data gathered from three groups of individuals: thos
 ![gitplot2](https://user-images.githubusercontent.com/96732467/183500766-3800a86c-230d-47fa-b498-97bb101f7ba2.png)
 ![gitplot3](https://user-images.githubusercontent.com/96732467/183500794-7afa7fcb-a5ad-4e9e-8da2-e7324eb541d8.png)
 
+## Scalograms
+![CHF_103](https://user-images.githubusercontent.com/96732467/184366427-fc468290-0969-44f9-b33e-2cf90a635a39.jpg)  ![CHF_107](https://user-images.githubusercontent.com/96732467/184366489-9765ee8b-47aa-49be-a97a-c5e0e0ae4706.jpg)  ![NSR_144](https://user-images.githubusercontent.com/96732467/184366639-0000ba32-15b6-449b-a739-3e7962d1f919.jpg)  ![ARR_49](https://user-images.githubusercontent.com/96732467/184366713-0696d4a9-ba69-4de6-970a-9de026502ad0.jpg)
+
+
+
+
+
 # Training Plot
 
 ![training](https://user-images.githubusercontent.com/96732467/183500948-011f1de4-7cee-4db9-857f-c9b3c4906bda.png)
